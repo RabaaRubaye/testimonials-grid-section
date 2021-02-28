@@ -6,11 +6,11 @@
 }
 @font-face{
     font-family: BarlowMed;
-    src: url('/fonts/BarlowSemiCondensed-Medium.ttf');
+    src: url('./fonts/BarlowSemiCondensed-Medium.ttf');
 }
 @font-face{
     font-family: BarlowBold;
-    src: url('/fonts/BarlowSemiCondensed-SemiBold.ttf');
+    src: url('./fonts/BarlowSemiCondensed-SemiBold.ttf');
 }
 body{
     font-family: BarlowMed, sans-serif;
